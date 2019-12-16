@@ -2,7 +2,7 @@
 Group project by Sam Anderson, Sydney Paul, Kenneth Shelley  
 Notre Dame, MS Data Science, Fall 2019  
 
-Visit https://sydneykpaul.shinyapps.io/Data_Visualization_Final_Project/ to see this R shiny application deployed. 
+Visit https://sydneykpaul.shinyapps.io/Data_Visualization_Final_Project/ to see this R Shiny application deployed. 
 
 <hr>
 
